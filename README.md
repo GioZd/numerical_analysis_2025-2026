@@ -94,7 +94,7 @@ Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
 
 ### Students projects
 
-The final project will be presented during the last Lab session of the course on 17/12/2025.
+The final project will be presented during the last Lab session of the course on 19/12/2025.
 The assignments will be described and uploaded in a dedicated Jupyter notebook.
 For questions related to the assignments, please contact the tutor [Anna Ivagnes](mailto://aivagnes@sissa.it).
 
