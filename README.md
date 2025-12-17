@@ -94,9 +94,14 @@ Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
 
 ### Students projects
 
-The final project will be presented during the last Lab session of the course on **Wednesday, December 17th, 2025**.
+The final project will be presented by the tutor during the last Lab session of the course on **Wednesday, December 17th, 2025**.
 The assignments will be described and uploaded in a dedicated Jupyter notebook.
+Regarding the mark at the exam, you can get a maximum of 27/30 if you don't complete the final project.
+The final project is **optional** and gives you additional 3 points to reach 30/30 or 30 cum laude.
 For questions related to the assignments, please contact the tutor [Anna Ivagnes](mailto://aivagnes@sissa.it).
+
+To take the exam, write an email to [Prof. Rozza](mailto://grozza@sissa.it). He will organize a session for you and
+other students.
 
 ### Further material provided during lectures by Prof. Gianluigi Rozza at <https://people.sissa.it/~grozza/amnasc/>
 
@@ -140,7 +145,7 @@ Note that, when connecting from SISSA, all of the text books above are
 available in full text as pdf files.
 
 
-## Licencing
+## Licensing
 
  [![Creative Commons License](http://mirrors.creativecommons.org/presskit/logos/cc.logo.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
